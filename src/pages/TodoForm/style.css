@@ -1,0 +1,14 @@
+.todo__form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid ;
+  border-radius: 4px;
+  padding: 20px;
+  width: fit-content;
+}
+
+label {
+  margin-bottom: 10px;
+}
